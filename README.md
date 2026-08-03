@@ -1,4 +1,6 @@
-## I’m a student at Northeastern University with roots in India and Singapore, passionate about data science and the broader field of computer science. My experiences span across leadership, service, and innovation from serving in student government and organising community fundraisers, to supporting inclusive programs like Badminton with Special Olympics.
+## Hi, I'm Madhav
+
+I’m a student at Northeastern University with roots in India and Singapore, passionate about data science and the broader field of computer science. My experiences span across leadership, service, and innovation from serving in student government and organising community fundraisers, to supporting inclusive programs like Badminton with Special Olympics.
 
 I thrive in collaborative environments where communication and teamwork are key, and I’m equally motivated by opportunities to take on leadership roles. My internship at a startup gave me hands-on experience in applying problem solving and adaptability, skills I intend to resume at Northeastern. 
 
