@@ -1,22 +1,17 @@
 ## Hi, I'm Madhav
 
-I’m a student at Northeastern University with roots in India and Singapore, passionate about data science and the broader field of computer science. My experiences span across leadership, service, and innovation from serving in student government and organising community fundraisers, to supporting inclusive programs like Badminton with Special Olympics.
+I'm a Data Science & Business student at Northeastern University (Biology minor) who loves turning messy data into something reliable and useful.
 
-I thrive in collaborative environments where communication and teamwork are key, and I’m equally motivated by opportunities to take on leadership roles. My internship at a startup gave me hands-on experience in applying problem solving and adaptability, skills I intend to resume at Northeastern. 
+### 🔧 What I work with
+Python · pandas · NumPy · scikit-learn · SQL (MySQL) · Streamlit · Git
 
-Beyond academics and work, I’m an avid badminton player who values discipline, perseverance, and balance qualities I bring into both personal and professional settings. I’m always eager to connect with others, explore new ideas, and contribute to projects that make an impact!
+### 📂 Projects
+- **[xG Model – Football](https://github.com/madhavsabugNEU/xG-model-football)**: an in-progress machine learning model that predicts goal probability from shot data
+- **Data Cleaning Pipeline**: a configurable Python tool that validates and cleans CSV, JSON, and YAML data, with logging and reports
+- **[ShelfLife](https://github.com/madhavsabugNEU/26S-ShelfLife-GroupProject)**: a course materials marketplace (team project). I designed the database and fixed data integrity issues
 
-<!--
-**madhavsabugNEU/madhavsabugNEU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 Currently
+Learning more SQL, data visualization tools, and how AI fits into data workflows.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Reach me
+[LinkedIn](https://linkedin.com/in/madhavsabu) · madhavsabug@gmail.com
